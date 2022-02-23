@@ -1,0 +1,9 @@
+body {
+    overflow: hidden;
+}
+
+.content {
+    height: 100vh;
+    background-color: rgb(109,253,248);
+}
+
